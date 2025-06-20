@@ -1,0 +1,16 @@
+{
+  "name": "evildev",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "src/index.js"
+    "start": "node ."
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "discord.js": "14.20.0",
+    "dotenv": "^16.5.0"
+  }
+}
